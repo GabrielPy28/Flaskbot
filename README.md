@@ -1,5 +1,5 @@
 # Flaskbot:
-> aplicación de chatbot desarrollada con Flask y Microsoft/DialoGPT-medium. Flask es un marco web de Python que se utiliza para crear aplicaciones web. Microsoft/DialoGPT-medium es un modelo de lenguaje de inteligencia artificial que se utiliza para generar respuestas de chatbot. Flaskbot utiliza este modelo para generar respuestas de chatbot en función de las entradas del usuario. La combinación de Flask y Microsoft/DialoGPT-medium permite a Flaskbot generar respuestas de chatbot precisas y coherentes. 
+> Chatbot application developed with Flask and Microsoft/DialoGPT-medium. Flask is a Python web framework used to create web applications. Microsoft/DialoGPT-medium is an artificial intelligence language model used to generate chatbot responses. Flaskbot uses this model to generate chatbot responses based on user input. The combination of Flask and Microsoft/DialoGPT-medium allows Flaskbot to generate accurate and consistent chatbot responses.
 >
 > ![Flaskbot cover image](https://th.bing.com/th/id/OIG.q32jGYxddjTb4tqPS4s0?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
 
